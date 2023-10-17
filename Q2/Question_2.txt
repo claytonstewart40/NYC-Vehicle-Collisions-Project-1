@@ -1,0 +1,4 @@
+“What vehicle is most likely to be involved in crashes?”
+1. Clean data for type of vehicle
+2. Do a count analysis
+3. Display results
