@@ -1,0 +1,41 @@
+﻿Project Title: NYC vehicle collision analysis
+
+
+Team Members: 
+
+
+Project Description/Outline: What causes the most car crashes. 
+
+
+Research Questions to Answer: 
+* What are the top ten most dangerous intersections? 
+* What vehicle is most likely to be involved in crashes? 
+* What is the most likely time of year/time of day to get into an accident? 
+
+
+Datasets to Be Used:
+Motor Vehicle Collisions - Crashes 
+ https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
+
+
+Rough Breakdown of Tasks: 
+
+
+“What are the top ten most dangerous intersections?”
+1. Clean data to highlight relevant columns and filter out missing values
+2. Filter columns by the most common on street name
+3. Filter by most common cross street name associated with the street name
+4. Display results
+
+
+“What vehicle is most likely to be involved in crashes?”
+1. Clean data for type of vehicle
+2. Do a count analysis
+3. Display results
+
+
+“What is the most likely time of year/time of day to get into an accident?”
+1.  Filter for time year/time of day, get rid of missing values
+2. Create ranges, use the buckets or iloc/loc
+3. Put into a dataframe
+4. Filter it to show which range has the most crashes
