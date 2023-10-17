@@ -1,7 +1,7 @@
 ﻿Project Title: NYC vehicle collision analysis
 
 
-Team Members: David G, Paul S, Clayton S
+Team Members: David Gooch, Paul Salgo, Clayton Stewart
 
 
 Project Description/Outline: What causes the most car crashes. 
