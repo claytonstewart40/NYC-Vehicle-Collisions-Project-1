@@ -2,4 +2,4 @@
 1.  Filter for time year/time of day, get rid of missing values
 2. Create ranges, use the buckets or iloc/loc
 3. Put into a dataframe
-4. Filter it to show which range has the most crashed
+4. Filter it to show which range has the most crashes
