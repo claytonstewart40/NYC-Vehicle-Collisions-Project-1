@@ -1,4 +1,4 @@
-“What are the top ten most dangerous intersections?”
+“What are the top ten most dangerous Streets?”
 Outline:
 1. Clean data to highlight relevant columns and filter out missing values
 2. Filter columns by the most common on street name
