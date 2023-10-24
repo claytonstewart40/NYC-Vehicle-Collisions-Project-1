@@ -2,3 +2,18 @@
 1. Clean data for type of vehicle
 2. Do a count analysis
 3. Display results
+
+In this portion of our project, we present an analysis of car accidents in New York City 
+The objective of the analysis is to gain insights into the types of 
+vehicles most likely to be involved in car accidents and their associated
+contributing factors.
+
+The analysis revealed that sedans are the most common type of vehicle involved in car accidents in New York city, followed by SUVs. The top contributing factor for both vehicle types was "driver inattention/distraction", then
+"following too closely" and "failure to yield right of way". SUVs were more likely to be involved in an accident 
+due to backing up unsafely than sedans.  
+
+To further inform the public, we used the data to visualize what day of the week these two vehicles were most likely
+to get into an accident and found that Friday was the most dangerous. 
+However, pedestrians are more likely to be injured or killed on the weekend, specifically on Sundays. We can assume 
+that this is due to more pedestrians on the streets. In the future, we'd like to confirm with a seperate dataset 
+that there is a direct correlation between number of pedestrians on the streets and accidents. 
